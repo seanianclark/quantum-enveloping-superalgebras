@@ -1,7 +1,5 @@
 # Quantum Enveloping Superalgebras
 
-One Paragraph of project description goes here
-
 ### Prerequisites
 
 Project is coded in Python 3
